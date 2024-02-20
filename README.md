@@ -1,0 +1,1 @@
+The Live Sketch app is a real-time image processing application built using the OpenCV library in Python. This application allows users to capture video from their webcam and apply a sketch effect to the live feed in real-time.
